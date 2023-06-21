@@ -4,23 +4,72 @@
 
 The System Selection phase involves identifying and choosing the systems, platforms, or tools that will be implemented for the project. This README provides an overview of the selected systems, platforms, or tools and their relevance to the project requirements
 
+<details>
 
-AWS: We will utilize AWS for scalable and reliable cloud infrastructure to host the client's applications and data, reducing costs and improving flexibility.
+<summary>Amazon Web Services</summary>
 
-Windows Server: Windows Server will serve as the operating system for hosting server applications and services, providing centralized management of user accounts, file sharing, and printer management.
+#### AWS
 
-VPC (Virtual Private Cloud): The client will create a secure and isolated virtual private network within the AWS cloud, ensuring the protection and customization of their network resources.
+We will utilize AWS for scalable and reliable cloud infrastructure to host the client's applications and data, reducing costs and improving flexibility.
+</details>
 
-Active Directory - Group Policy: Active Directory will simplify user management and authentication, while Group Policy allows for centralized security policy enforcement and configuration.
+<details>
 
-VPN (Virtual Private Network): We will implement a VPN solution for secure remote access to the client's network, enabling employees to connect securely from outside the office.
+<summary>Windows Server</summary>
 
-Pfsense - Captive Portal: Pfsense will be used as a firewall and routing platform, implementing a Captive Portal for user authentication and control over network access.
+#### Windows Server:
 
-Windows 10 VM: Each employee of the acquired company will have a Windows 10 VM, providing them with access to the required files and programs within a standardized computing environment.
+Windows Server will serve as the operating system for hosting server applications and services, providing centralized management of user accounts, file sharing, and printer management.
+</details>
+
+<details>
+
+<summary>Virtual Private Cloud</summary>
+
+#### VPC
+
+The client will create a secure and isolated virtual private network within the AWS cloud, ensuring the protection and customization of their network resources.
+</details>
+
+<details>
+
+<summary>Active Directory</summary>
+
+#### Group Policy:
+
+Active Directory will simplify user management and authentication, while Group Policy allows for centralized security policy enforcement and configuration.
+</details>
+
+<details>
+
+<summary>Virtual Private Network</summary>
+
+#### VPN
+
+We will implement a VPN solution for secure remote access to the client's network, enabling employees to connect securely from outside the office.
+</details>
+
+<details>
+
+<summary>Pfsense</summary>
+
+#### Captive Portal
+
+Pfsense will be used as a firewall and routing platform, implementing a Captive Portal for user authentication and control over network access.
+</details>
+
+<details>
+
+<summary>Windows 10 VM</summary>
+
+#### Windows 10 VM
+
+Each employee of the acquired company will have a Windows 10 VM, providing them with access to the required files and programs within a standardized computing environment.
+</details>
 
 This is a concise overview of the selected systems, platforms, or tools for our project. Detailed implementation and configuration instructions can be found in the respective documentation.
 
+<br>
 
 ## Conquista Code Team 
 
