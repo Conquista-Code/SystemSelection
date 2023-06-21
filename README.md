@@ -2,7 +2,7 @@
 
 # System Selection 
 
-The System Selection phase involves identifying and choosing the systems, platforms, or tools that will be implemented for the project. This README provides an overview of the selected systems, platforms, or tools and their relevance to the project requirements
+The System Selection phase involves identifying and choosing the systems, platforms, or tools that will be implemented for the project. This markdown provides an overview of the selected systems, platforms, or tools and their relevance to the project requirements
 
 <details>
 
