@@ -81,6 +81,7 @@ This is a concise overview of the selected systems, platforms, or tools for our 
 | Eddie Ayala |  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eddie-ayala3/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Edmandoo1) |
 | Colin Wilde |  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/colin-wilde-748718209/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/wildedcolin) |
  
+<br>
 
 ## Project Management
 
